@@ -17,7 +17,8 @@ public class Main {
 
     public static void task2() {
         System.out.println("Задача 2");
-
+        String fullName  = "ivanov ivan ivanovich";
+        System.out.println(fullName.toUpperCase());
     }
 
     public static void task3() {
